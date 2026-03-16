@@ -1,7 +1,24 @@
-images/
-paris.jpg
-london.jpg
-goa.jpg
-delhi.jpg
-travel.jpg
-logo.png
+<!-- Logo -->
+<img src="images/logo.png" alt="Kalloji Travels Logo">
+
+<!-- Hero Background Image -->
+<img src="images/travel.jpg" alt="Travel Banner">
+
+<!-- Destinations Images -->
+<img src="images/paris.jpg" alt="Paris">
+<img src="images/london.jpg" alt="London">
+<img src="images/goa.jpg" alt="Goa Beach">
+<img src="images/delhi.jpg" alt="New Delhi">
+
+<!-- Bus / Travel Images -->
+<img src="images/bus1.jpg" alt="Luxury Bus">
+<img src="images/bus2.jpg" alt="Sleeper Bus">
+<img src="images/bus3.jpg" alt="AC Bus">
+
+<!-- Gallery Images -->
+<img src="images/gallery1.jpg" alt="Travel Gallery 1">
+<img src="images/gallery2.jpg" alt="Travel Gallery 2">
+<img src="images/gallery3.jpg" alt="Travel Gallery 3">
+
+<!-- Contact Section Image -->
+<img src="images/contact.jpg" alt="Contact Kalloji Travels">
